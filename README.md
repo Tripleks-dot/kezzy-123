@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working on **My personal portfolio website**
+- 🔭 I'm currently working on **A Rent Management system**
 - 🌱 I'm currently learning **React, SQL, and Advanced JavaScript**
 - 🎨 I create: **Websites, Graphics, AutoCAD designs, Databases**
 - ✈️ I love **Travelling across Kenya** (Nairobi, Mt. Kenya, Diani, Maasai Mara, Amboseli, Kisumu)
